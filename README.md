@@ -1,7 +1,54 @@
 ### Hi there 👋
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/47539383?v=4">
- <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/47539383?v=4">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GitHub Profile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1><a href="https://github.com/[username]">[Your Name]</a></h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p><img src="[Your Headshot URL]" alt="[Your Name]" width="200" height="200" /></p>
+      <p><strong>Name:</strong> [Your Name]</p>
+      <p><strong>Email:</strong> [Your Email]</p>
+      <p><strong>Location:</strong> [Your Location]</p>
+      <p><strong>GitHub:</strong><a href="https://github.com/[username]">https://github.com/[username]</a></p>
+      <p><strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/[username]/">https://www.linkedin.com/in/[username]/</a></p>
+    </section>
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul class="skills-list">
+        <li><strong>Programming Languages:</strong></li>
+        <li><span class="skill">JavaScript</span></li>
+        <li><span class="skill">Python</span></li>
+        <!-- Add more skills here -->
+        <!-- Use CSS to style the skills list -->
+      </ul>
+    </section>
+    <section id="projects">
+      <h2>Projects</h2>
+      <!-- Add links to your projects here -->
+      <!-- Use CSS to style the projects section -->
+    </section>
+    <!-- Add more sections here for additional information -->
+  </main>
+  <!-- Add a footer with links to your social media profiles -->
+  <!-- Use CSS to style the footer -->
+  <!-- Don't forget to link your stylesheet (style.css) in the head section -->
+</body>
+</html>
