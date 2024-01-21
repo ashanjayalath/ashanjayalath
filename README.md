@@ -9,7 +9,7 @@
 </head>
 <body>
   <header>
-    <h1><a href="https://github.com/ashanjayalath">S H A N   J A Y A L A T H</a></h1>
+    <h1><a href="https://github.com/ashanjayalath">S H A N</a></h1>
     <nav>
       <ul>
         <li><a href="#about">About</a></li>
