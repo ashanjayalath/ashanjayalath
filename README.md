@@ -23,7 +23,7 @@
     <section id="about">
       <h2>About Me</h2>
       <p><img src="https://avatars.githubusercontent.com/u/47539383?v=4" alt="Ashan Jayalath" width="200" height="200" /></p>
-      <p><strong>Name:</strong> S H A N  J A Y A L A T H</p>
+      <p><strong>Name:</strong>SHAN  JAYALATH</p>
       <p><strong>Email:</strong>shanjayalath225@gmail.com</p>
       <p><strong>Location:</strong> SriLanka</p>
       <p><strong>GitHub:</strong><a href="https://github.com/[username]">https://github.com/ashanjayalath</a></p>
@@ -35,6 +35,11 @@
         <li><strong>Programming Languages:</strong></li>
         <li><span class="skill">JavaScript</span></li>
         <li><span class="skill">Python</span></li>
+        <li><span class="skill">Java</span></li>
+        <li><span class="skill">C#</span></li>
+        <li><span class="skill">C++</span></li>
+        <li><span class="skill">Dart</span></li>
+        <li><span class="skill">NodeJS</span></li>
         <!-- Add more skills here -->
         <!-- Use CSS to style the skills list -->
       </ul>
