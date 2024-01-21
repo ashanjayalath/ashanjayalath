@@ -10,7 +10,7 @@
 </head>
 <body>
   <header>
-    <h1><a href="https://github.com/[username]">[Your Name]</a></h1>
+    <h1><a href="https://github.com/ashanjayalath">[Your Name]</a></h1>
     <nav>
       <ul>
         <li><a href="#about">About</a></li>
@@ -23,11 +23,11 @@
   <main>
     <section id="about">
       <h2>About Me</h2>
-      <p><img src="[Your Headshot URL]" alt="[Your Name]" width="200" height="200" /></p>
-      <p><strong>Name:</strong> [Your Name]</p>
-      <p><strong>Email:</strong> [Your Email]</p>
-      <p><strong>Location:</strong> [Your Location]</p>
-      <p><strong>GitHub:</strong><a href="https://github.com/[username]">https://github.com/[username]</a></p>
+      <p><img src="https://avatars.githubusercontent.com/u/47539383?v=4" alt="Ashan Jayalath" width="200" height="200" /></p>
+      <p><strong>Name:</strong> S H A N  J A Y A L A T H</p>
+      <p><strong>Email:</strong>shanjayalath225@gmail.com</p>
+      <p><strong>Location:</strong> SriLanka</p>
+      <p><strong>GitHub:</strong><a href="https://github.com/[username]">https://github.com/ashanjayalath</a></p>
       <p><strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/[username]/">https://www.linkedin.com/in/[username]/</a></p>
     </section>
     <section id="skills">
