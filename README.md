@@ -1,30 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ashan%20Jayalath&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Ashan%20Jayalath&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h3>Founder of <b>Odora</b> & <b>Farmo</b> | Full-Stack Developer</h3>
+  <h3>🎓 BIT(Reading) @ UOM | 💻 Full-Stack Engineer | 🍎 IT Tutor</h3>
 
   <p>
-    <a href="https://linkedin.com/in/ashan-jayalath-2b43911b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <a href="https://linkedin.com/in/nashan-jayalath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:gpashanjayalath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Location-Sri%20Lanka-0072ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
 </div>
 
 ---
 
-## 🛰️ Digital Presence
+## 👨‍💻 Professional Profile
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
       <h3>✨ About Me</h3>
-      <p>I am a versatile <b>Full-Stack Developer</b> and <b>Entrepreneur</b>. I specialize in building high-performance web applications using the <b>Next.js</b> ecosystem and designing robust database architectures.</p>
+      <p>I am an experienced <b>Software Engineering Tutor</b> and <b>Full-Stack Developer</b> with a strong foundation in software design and application development[cite: 25]. I thrive on breaking down complex concepts into practical lessons[cite: 28].</p>
       <ul>
-        <li>🚀 <b>Founder:</b> Leading <a href="#">Odora</a> (Perfume Decants) & <a href="#">Farmo</a> (Logistics).</li>
-        <li>💻 <b>Stack:</b> React, Next.js, TypeScript, Chakra UI.</li>
-        <li>🧠 <b>Focus:</b> Data Mining, Machine Learning, and Database Design.</li>
+        <li>🔭 <b>Current Focus:</b> Developing <b>farmo</b>, a GPS-free agricultural supply chain platform[cite: 61, 64].</li>
+        <li>🎓 <b>Education:</b> Pursuing BIT at <b>University of Moratuwa</b> [cite: 9, 10] and holder of an <b>HNDIT</b>[cite: 14].</li>
+        <li>🏢 <b>Experience:</b> Assistant Programme Coordinator at <b>ESOFT Metro College</b>[cite: 30, 31].</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>📈 Activity Stats</h3>
+    <td width="40%" valign="top">
+      <h3>📊 GitHub Ecosystem</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=ashanjayalath&theme=transparent&hide_border=true&show_icons=true&text_color=79fffa&icon_color=0072ff&title_color=00c6ff" width="100%" />
     </td>
   </tr>
@@ -32,38 +33,48 @@
 
 ---
 
-## 🛠️ Tech Ecosystem
+## 🛠️ Technical Arsenal
 
-### 🎨 Frontend & Design
+### 🎨 Frontend Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,chakra,tailwind,figma,canva,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,chakra,tailwind,bootstrap,html,css,figma" />
 </p>
 
-### ⚙️ Backend & Systems
+### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,py,java,cpp,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,php,py,java,cpp,cs" />
 </p>
 
-### 🔧 Tools & Workflow
+### 🔧 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gcp,npm,anaconda,vscode" />
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,npm,postman,anaconda,vscode" />
 </p>
 
 ---
 
-## 📊 Programming Language Distribution
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **farmo** | [cite_start]Agricultural supply chain platform with AI-driven complaint classification[cite: 61, 66]. | [cite_start]`Next.js`, `Chakra UI`, `Node.js`, `Python` [cite: 65, 66] |
+| **BkCiTy** | [cite_start]Scalable web application with real-time Firebase authentication[cite: 82, 87]. | [cite_start]`Next.js`, `TypeScript`, `Redux`, `GCP` [cite: 86, 87, 88] |
+| **Serendip Tour** | [cite_start]Dynamic full-stack web solution for real-world challenges[cite: 96, 97]. | [cite_start]`PHP`, `SQL`, `Bootstrap` [cite: 98, 99] |
+
+---
+
+## 📈 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanjayalath&theme=transparent&layout=compact&hide_border=true&text_color=79fffa&title_color=00c6ff" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashanjayalath&theme=transparent&hide_border=true&stroke=00c6ff&ring=0072ff&fire=00c6ff&currStreakLabel=00c6ff" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanjayalath&theme=transparent&layout=compact&hide_border=true&text_color=79fffa&title_color=00c6ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashanjayalath&theme=transparent&hide_border=true&stroke=00c6ff&ring=0072ff&fire=00c6ff&currStreakLabel=00c6ff" width="48%" />
 </p>
 
 ---
 
-## 📬 Get In Touch
 <div align="center">
-  <p>I'm always open to discussing new projects, business ideas, or technical challenges.</p>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" />
+  <h3>Let's build something impactful together!</h3>
+  [cite_start]<p>I specialize in <b>DIIT</b> and <b>DISE</b> subjects, including Software Engineering and Network Technology[cite: 35].</p>
+  <a href="mailto:gpashanjayalath@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
