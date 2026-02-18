@@ -28,7 +28,7 @@
     </td>
     <td width="40%" valign="top">
       <h3>📊 GitHub Ecosystem</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=ashanjayalath&theme=transparent&hide_border=true&show_icons=true&text_color=79fffa&icon_color=0072ff&title_color=00c6ff" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ashanjayalath&theme=ambient_gradient&show_icons=true&hide_border=false" width="100%" />
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@
 
 ### 🎨 Frontend Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,chakra,tailwind,bootstrap,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,html,css,figma" />
 </p>
 
 ### ⚙️ Backend & Database
@@ -67,7 +67,6 @@
 ## 📈 Engineering Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanjayalath&theme=transparent&layout=compact&hide_border=true&text_color=79fffa&title_color=00c6ff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashanjayalath&theme=transparent&hide_border=true&stroke=00c6ff&ring=0072ff&fire=00c6ff&currStreakLabel=00c6ff" width="48%" />
 </p>
 
 ---
