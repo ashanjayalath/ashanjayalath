@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Ashan%20Jayalath&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h3>🎓 BIT(Reading) @ UOM | 💻 Full-Stack Engineer | 🍎 Assistant Programe Coordinator & IT Tutor</h3>
+  <h3>🎓 BIT(Reading) @ UOM | 💻 Full-Stack Engineer | 🍎 Assistant Programme Coordinator & IT Tutor</h3>
 
   <p>
     <a href="https://linkedin.com/in/nashan-jayalath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,7 +18,7 @@
     <td width="60%" valign="top">
       <h3>✨ About Me</h3>
       <div align="justify">
-      <p>I am an experienced <b>Software Engineering Tutor</b> and <b>Full-Stack Developer</b> with a strong foundation in software design and application development[cite: 25]. I thrive on breaking down complex concepts into practical lessons.</p>
+      <p>I am an experienced <b>Software Engineering Tutor</b> and <b>Full-Stack Developer</b> with a strong foundation in software design and application development. I thrive on breaking down complex concepts into practical lessons.</p>
       </div>
       <ul>
         <li>🔭 <b>Current Focus:</b> Developing <b>farmo</b>, a GPS-free agricultural supply chain platform.</li>
@@ -59,7 +59,7 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **farmo** | Agricultural supply chain platform with AI-driven complaint classification. | `Next.js`, `Chakra UI`, `Node.js`, `Python` |
-| **BkCiTy** | Scalable web application with real-time Firebase authentication. | `Next.js`, `TypeScript`, `Redux`, `GCP` [cite: 86, 87, 88] |
+| **BkCiTy** | Scalable web application with real-time Firebase authentication. | `Next.js`, `TypeScript`, `Redux`, `GCP` |
 | **Serendip Tour** | Dynamic full-stack web solution for real-world challenges. | `PHP`, `SQL`, `Bootstrap` |
 
 ---
