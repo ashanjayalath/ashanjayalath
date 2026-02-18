@@ -26,9 +26,9 @@
         <li>🏢 <b>Experience:</b> Assistant Programme Coordinator at <b>ESOFT Metro College</b>.</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
-      <h3>📊 GitHub Ecosystem</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=ashanjayalath&theme=transparent&hide_border=true&show_icons=true&text_color=79fffa&icon_color=0072ff&title_color=00c6ff" width="100%" />
+   <td width="45%" valign="top">
+      <h3>📊 Development Metrics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ashanjayalath&theme=dark&hide_border=false&show_icons=true&title_color=00c6ff&icon_color=0072ff&text_color=ffffff" width="100%" />
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@
 
 ### 🎨 Frontend Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,chakra,tailwind,bootstrap,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,html,css,figma" />
 </p>
 
 ### ⚙️ Backend & Database
