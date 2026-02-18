@@ -4,7 +4,7 @@
   <h3>🎓 BIT(Reading) @ UOM | 💻 Full-Stack Engineer | 🍎 IT Tutor</h3>
 
   <p>
-    <a href="https://linkedin.com/in/nashan-jayalath-2b43911b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/nashan-jayalath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:gpashanjayalath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Location-Sri%20Lanka-0072ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
@@ -15,21 +15,18 @@
 ## 👨‍💻 Professional Profile
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h3>✨ About Me</h3>
-      <div align="justify">
-        I am an experienced <b>Software Engineering Tutor</b> and <b>Full-Stack Developer</b> with a strong foundation in software design and application development. I specialize in simplifying complex concepts through practical, hands-on learning to help students excel in the digital world. I thrive in creating engaging and supportive learning environments.
-      </div>
-      <br/>
+      <p>I am an experienced <b>Software Engineering Tutor</b> and <b>Full-Stack Developer</b> with a strong foundation in software design and application development[cite: 25]. I thrive on breaking down complex concepts into practical lessons[cite: 28].</p>
       <ul>
-        <li>🚀 <b>Project Farmo:</b> Developing a GPS-free agricultural supply chain platform.</li>
-        <li>🏫 <b>Academic:</b> Pursuing Bachelor of Information Technology at <b>University of Moratuwa</b>.</li>
-        <li>🏢 <b>Role:</b> Assistant Programme Coordinator at <b>ESOFT Metro College</b>.</li>
+        <li>🔭 <b>Current Focus:</b> Developing <b>farmo</b>, a GPS-free agricultural supply chain platform[cite: 61, 64].</li>
+        <li>🎓 <b>Education:</b> Pursuing BIT at <b>University of Moratuwa</b> [cite: 9, 10] and holder of an <b>HNDIT</b>[cite: 14].</li>
+        <li>🏢 <b>Experience:</b> Assistant Programme Coordinator at <b>ESOFT Metro College</b>[cite: 30, 31].</li>
       </ul>
     </td>
-    <td width="45%" valign="top">
-      <h3>📊 Development Metrics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=ashanjayalath&theme=ambient_gradient&show_icons=true&hide_border=false" width="100%" />
+    <td width="40%" valign="top">
+      <h3>📊 GitHub Ecosystem</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ashanjayalath&theme=transparent&hide_border=true&show_icons=true&text_color=79fffa&icon_color=0072ff&title_color=00c6ff" width="100%" />
     </td>
   </tr>
 </table>
@@ -38,44 +35,44 @@
 
 ## 🛠️ Technical Arsenal
 
-### 🎨 Frontend & Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,chakra,tailwind,bootstrap,html,css,figma,canva" />
+### 🎨 Frontend Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,chakra,tailwind,bootstrap,html,css,figma" />
 </p>
 
-### ⚙️ Backend & Systems
-<p align="left">
+### ⚙️ Backend & Database
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,php,py,java,cpp,cs" />
 </p>
 
 ### 🔧 DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,npm,postman,anaconda,vscode,linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,npm,postman,anaconda,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Primary Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **farmo** | [cite_start]Supply chain platform with AI-driven complaint classification[cite: 61, 66]. | `Next.js`, `Node.js`, `Python` |
-| **BkCiTy** | [cite_start]Web application with Firebase auth and Redux state management[cite: 82, 87, 88]. | `Next.js`, `TS`, `GCP` |
-| **Serendip Tour** | [cite_start]Dynamic full-stack solution for solving real-world challenges[cite: 96, 97]. | `PHP`, `SQL`, `Bootstrap` |
+| **farmo** | [cite_start]Agricultural supply chain platform with AI-driven complaint classification[cite: 61, 66]. | [cite_start]`Next.js`, `Chakra UI`, `Node.js`, `Python` [cite: 65, 66] |
+| **BkCiTy** | [cite_start]Scalable web application with real-time Firebase authentication[cite: 82, 87]. | [cite_start]`Next.js`, `TypeScript`, `Redux`, `GCP` [cite: 86, 87, 88] |
+| **Serendip Tour** | [cite_start]Dynamic full-stack web solution for real-world challenges[cite: 96, 97]. | [cite_start]`PHP`, `SQL`, `Bootstrap` [cite: 98, 99] |
 
 ---
 
-## 📈 Activity & Contribution
+## 📈 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanjayalath&theme=ambient_gradient&layout=compact&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashanjayalath&theme=ambient_gradient&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanjayalath&theme=transparent&layout=compact&hide_border=true&text_color=79fffa&title_color=00c6ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashanjayalath&theme=transparent&hide_border=true&stroke=00c6ff&ring=0072ff&fire=00c6ff&currStreakLabel=00c6ff" width="48%" />
 </p>
 
 ---
 
 <div align="center">
   <h3>Let's build something impactful together!</h3>
-  <p>Specializing in <b>DIIT</b> and <b>DISE</b> subjects with a passion for modern web technologies.</p>
+  [cite_start]<p>I specialize in <b>DIIT</b> and <b>DISE</b> subjects, including Software Engineering and Network Technology[cite: 35].</p>
   <a href="mailto:gpashanjayalath@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
