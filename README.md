@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Ashan%20Jayalath&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=ASHAN%20JAYALATH&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <h3>🎓 BIT(Reading) @ UOM | 💻 Full-Stack Engineer | 🍎 Assistant Programme Coordinator & IT Tutor</h3>
 
@@ -26,10 +26,7 @@
         <li>🏢 <b>Experience:</b> Assistant Programme Coordinator at <b>ESOFT Metro College</b>.</li>
       </ul>
     </td>
-   <td width="45%" valign="top">
-      <h3>📊 Development Metrics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=ashanjayalath&theme=dark&hide_border=false&show_icons=true&title_color=00c6ff&icon_color=0072ff&text_color=ffffff" width="100%" />
-    </td>
+  
   </tr>
 </table>
 
@@ -39,20 +36,43 @@
 
 ### 🎨 Frontend Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,html,css,figma,redux" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,php,py,java,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,php,py,flask,java,cpp,cs" />
 </p>
 
 ### 🔧 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,npm,postman,anaconda,vscode" />
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,npm,yarn,postman,anaconda,cloudflare" />
 </p>
 
+### 🔧 Other Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,mysql,stackoverflow,sublime,atom,androidstudio,vscode,idea,webstorm,visualstudio,eclipse" />
+</p>
+
+### 🔧 Other Frameworks & Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=materialui,electron,c,godot" />
+</p>
+
+### 🔧 OS & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,linux,debian,kali,ubuntu,mint,arch,powershell,windows" />
+</p>
+
+### 🥂 Social Media
+<p>
+  <img src="https://skillicons.dev/icons?i=discord,linkedin,gmail,twitter,instagram" />
+</p>
+
+
 ---
+
+
 
 ## 🚀 Featured Projects
 
