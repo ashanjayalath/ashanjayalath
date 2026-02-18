@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Ashan%20Jayalath&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h3>🎓 BIT(Reading) @ UOM | 💻 Full-Stack Engineer | 🍎 IT Tutor</h3>
+  <h3>🎓 BIT(Reading) @ UOM | 💻 Full-Stack Engineer | 🍎 Assistant Programe Coordinator & IT Tutor</h3>
 
   <p>
     <a href="https://linkedin.com/in/nashan-jayalath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,11 +17,13 @@
   <tr>
     <td width="60%" valign="top">
       <h3>✨ About Me</h3>
-      <p>I am an experienced <b>Software Engineering Tutor</b> and <b>Full-Stack Developer</b> with a strong foundation in software design and application development[cite: 25]. I thrive on breaking down complex concepts into practical lessons[cite: 28].</p>
+      <div align="justify">
+      <p>I am an experienced <b>Software Engineering Tutor</b> and <b>Full-Stack Developer</b> with a strong foundation in software design and application development[cite: 25]. I thrive on breaking down complex concepts into practical lessons.</p>
+      </div>
       <ul>
-        <li>🔭 <b>Current Focus:</b> Developing <b>farmo</b>, a GPS-free agricultural supply chain platform[cite: 61, 64].</li>
-        <li>🎓 <b>Education:</b> Pursuing BIT at <b>University of Moratuwa</b> [cite: 9, 10] and holder of an <b>HNDIT</b>[cite: 14].</li>
-        <li>🏢 <b>Experience:</b> Assistant Programme Coordinator at <b>ESOFT Metro College</b>[cite: 30, 31].</li>
+        <li>🔭 <b>Current Focus:</b> Developing <b>farmo</b>, a GPS-free agricultural supply chain platform.</li>
+        <li>🎓 <b>Education:</b> Pursuing BIT at <b>University of Moratuwa</b> and holder of an <b>HNDIT</b>.</li>
+        <li>🏢 <b>Experience:</b> Assistant Programme Coordinator at <b>ESOFT Metro College</b>.</li>
       </ul>
     </td>
     <td width="40%" valign="top">
@@ -56,9 +58,9 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **farmo** | [cite_start]Agricultural supply chain platform with AI-driven complaint classification[cite: 61, 66]. | [cite_start]`Next.js`, `Chakra UI`, `Node.js`, `Python` [cite: 65, 66] |
-| **BkCiTy** | [cite_start]Scalable web application with real-time Firebase authentication[cite: 82, 87]. | [cite_start]`Next.js`, `TypeScript`, `Redux`, `GCP` [cite: 86, 87, 88] |
-| **Serendip Tour** | [cite_start]Dynamic full-stack web solution for real-world challenges[cite: 96, 97]. | [cite_start]`PHP`, `SQL`, `Bootstrap` [cite: 98, 99] |
+| **farmo** | Agricultural supply chain platform with AI-driven complaint classification. | `Next.js`, `Chakra UI`, `Node.js`, `Python` |
+| **BkCiTy** | Scalable web application with real-time Firebase authentication. | `Next.js`, `TypeScript`, `Redux`, `GCP` [cite: 86, 87, 88] |
+| **Serendip Tour** | Dynamic full-stack web solution for real-world challenges. | `PHP`, `SQL`, `Bootstrap` |
 
 ---
 
@@ -72,7 +74,7 @@
 
 <div align="center">
   <h3>Let's build something impactful together!</h3>
-  [cite_start]<p>I specialize in <b>DIIT</b> and <b>DISE</b> subjects, including Software Engineering and Network Technology[cite: 35].</p>
+  <p>I specialize in <b>DIIT</b> and <b>DISE</b> subjects, including Software Engineering and Network Technology.</p>
   <a href="mailto:gpashanjayalath@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
