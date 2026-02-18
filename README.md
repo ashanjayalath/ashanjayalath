@@ -1,45 +1,74 @@
-# 👋 Hi, I'm Ashan Jayalath 
-### Developer | Entrepreneur | Tech Enthusiast
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ashan%20Jayalath&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ashanjayalath&label=Profile%20views&color=0e75b6&style=flat" alt="ashanjayalath" />
+  <h3>Founder of <b>Odora</b> & <b>Farmo</b> | Full-Stack Developer</h3>
+
+  <p>
+    <a href="https://linkedin.com/in/ashan-jayalath-2b43911b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </p>
+</div>
+
+---
+
+## 🛰️ Digital Presence
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ About Me</h3>
+      <p>I am a versatile <b>Full-Stack Developer</b> and <b>Entrepreneur</b>. I specialize in building high-performance web applications using the <b>Next.js</b> ecosystem and designing robust database architectures.</p>
+      <ul>
+        <li>🚀 <b>Founder:</b> Leading <a href="#">Odora</a> (Perfume Decants) & <a href="#">Farmo</a> (Logistics).</li>
+        <li>💻 <b>Stack:</b> React, Next.js, TypeScript, Chakra UI.</li>
+        <li>🧠 <b>Focus:</b> Data Mining, Machine Learning, and Database Design.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Activity Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ashanjayalath&theme=transparent&hide_border=true&show_icons=true&text_color=79fffa&icon_color=0072ff&title_color=00c6ff" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Ecosystem
+
+### 🎨 Frontend & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,chakra,tailwind,figma,canva,bootstrap" />
+</p>
+
+### ⚙️ Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,py,java,cpp,dotnet" />
+</p>
+
+### 🔧 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,npm,anaconda,vscode" />
 </p>
 
 ---
 
-## 💫 About Me:
-I am a passionate developer focused on building scalable web solutions. I enjoy bridging the gap between design and code to create seamless user experiences.
-
-- 🚀 **Currently working on:** Enhancing the **Farmo** logistics platform and **Odora** perfume decant store.
-- 💻 **Tech Interests:** Web Development (Next.js), Data Mining, and Database Design.
-- 🎓 **Focus:** Crafting clean code with TypeScript and Chakra UI.
-- ⚡ **Fun Fact:** I balance my time between writing code and managing business operations.
-
----
-
-## 🛠 Tech Stack:
-
-### 🌐 Frontend & Design
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
+## 📊 Programming Language Distribution
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashanjayalath&theme=ambient_gradient&show_icons=true&hide_border=false" alt="Ashan's GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanjayalath&theme=ambient_gradient&layout=compact&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanjayalath&theme=transparent&layout=compact&hide_border=true&text_color=79fffa&title_color=00c6ff" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashanjayalath&theme=transparent&hide_border=true&stroke=00c6ff&ring=0072ff&fire=00c6ff&currStreakLabel=00c6ff" width="45%" />
 </p>
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashan-jayalath-2b43911b5)
+## 📬 Get In Touch
+<div align="center">
+  <p>I'm always open to discussing new projects, business ideas, or technical challenges.</p>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%" />
+</div>
