@@ -1,5 +1,5 @@
 <div align="center">
-      <a href="https://ashanjayalath.vercel.app/">
+      <a href="https://ashanjayalath.vercel.app/" target="_blank">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=ASHAN%20JAYALATH&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
       </a>
   <h3>🎓 BIT(Reading) @ UOM | 💻 Full-Stack Engineer | 🍎 Assistant Programme Coordinator & IT Tutor</h3>
